@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Aboretum",
+        "price": 200,
+        "image": "image/abz1.png"
+    },
+    {
+        "id": 2,
+        "name":" Ace Paracetamol Suppository",
+        "price": 250,
+        "image": "image/actilosa1.png"
+    },
+    {
+        "id": 3,
+        "name":" Activated Charcoal Tablets",
+        "price": 290,
+        "image": "image/actilosasyrup.png"
+    },
+    {
+        "id": 4,
+        "name":" Actilosa Capsules 10's",
+        "price": 200,
+        "image": "image/charcoal1.png"
+    },
+    {
+        "id": 5,
+        "name":" Actilosa Dry Syrup 30ml",
+        "price": 300,
+        "image": "image/ace1.png"
+    },
+    {
+        "id": 6,
+        "name":" Eucerin Dry Skin Urea",
+        "price": 200,
+        "image": "image/abz1.png"
+    },
+    {
+        "id": 7,
+        "name":" Jameson 5000mcg Tablets 45s",
+        "price": 200,
+        "image": "image/actilosa1.png"
+    },
+    {
+        "id": 8,
+        "name":" Jamieson Probiotic Capsules",
+        "price": 200,
+        "image": "image/charcoal1.png"
+    }
+
+]
