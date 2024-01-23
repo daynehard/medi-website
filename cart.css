@@ -36,6 +36,33 @@ header{
     top: 50%;
     right: -20px;
 }
+.nav-links{
+    flex: 1;
+    text-align: center;
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 6px 8px;
+    position: relative;
+}
+.nav-links ul li a{
+    color: #0e0d0d;
+    text-decoration: none;
+    font: 10px;
+}
+.nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #36def4;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.nav-links ul li:hover::after{
+    width: 100%;
+}
 .title{
     font-size: xx-large;
 }
